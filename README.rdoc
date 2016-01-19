@@ -6,3 +6,4 @@ To learn React, I am making a simple to do list.
 
 So far I have:
   - Built a button with clicked state to activate a render of a form on the home page.
+  - Make react and coffeescript work with turbolinks
