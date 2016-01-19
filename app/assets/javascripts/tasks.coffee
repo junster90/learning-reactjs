@@ -35,8 +35,11 @@ content =
 		React.createElement(addBtn, null)
 	
 
-$ ->
+ready = ->
 	ReactDOM.render(
 		content,
 		document.getElementById("react-target")
 	)
+
+$(document).ready(ready)
+$(document).on('page:load', ready)
