@@ -1,28 +1,8 @@
-== README
+My progress on learning React.js on Rails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I am using react-rails and coffeescript to experiment and learn how to build fast and intuitive front-end UI.
 
-Things you may want to cover:
+To learn React, I am making a simple to do list.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+So far I have:
+  - Built a button with clicked state to activate a render of a form on the home page.
